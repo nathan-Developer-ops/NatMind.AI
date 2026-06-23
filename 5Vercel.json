@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/geminichat.js": {
+      "maxDuration": 30
+    }
+  }
+}
