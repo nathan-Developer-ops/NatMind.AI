@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/openchat.js": {
+      "maxDuration": 30
+    }
+  }
+}
