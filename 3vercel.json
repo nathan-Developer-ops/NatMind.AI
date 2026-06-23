@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/4chat.js": {
+      "maxDuration": 30
+    }
+  }
+}
