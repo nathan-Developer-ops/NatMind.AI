@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/132groqchat.js": {
+      "maxDuration": 30
+    }
+  }
+}
